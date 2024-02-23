@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+header{
+	background-color: #2F1847;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: darkcyan;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+	border: 20px solid #624763;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+h2{
+	font-size: 30px;
+	color: #624763;
+}
+
+p{
+	font-size: 20px;
+}
